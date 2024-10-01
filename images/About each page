@@ -1,0 +1,20 @@
+1. Home Page:
+Purpose: The central landing point of the app. Users typically start their journey from here.
+Features: It could show the basic navigation to other parts of the app, like the camera (upload), previews, 
+and status updates. This page likely serves as the entry point for users to interact with the app.
+
+2. Upload Page:
+Purpose: This is where the user opens the camera and captures a photo.
+Features: It would have a camera interface with a capture button. After capturing a photo, the image is not 
+immediately saved but is passed to the next page for review.
+
+3. Preview Page:
+Purpose: To let users see the photo they captured and decide whether to keep it.
+Features: The captured image is displayed, along with the GPS location at the bottom. Users can either save
+the image to their device or discard it. Only upon clicking 'Save' will the image be stored on the device.
+
+4. Status Page:
+Purpose: This page could be where users view the status of uploads or stored photos.
+Features: It might display a list of photos the user has saved, along with any associated data (like GPS 
+location or upload status). This page might also handle displaying progress for uploads when the app includes 
+a cloud upload feature in the future.
